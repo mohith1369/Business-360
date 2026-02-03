@@ -40,7 +40,7 @@ The following steps were followed in this project:
 ---
 
 ## Files and Resources  
-- *Power BI Dashboard:* [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDk3MzI1MjUtNGUxMC00NjJlLWIyODMtNTViZmIwNGM3OWZkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
+- *Power BI Dashboard:* [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDI1MGFkYzgtMWIzZS00MDA2LTkyZGQtZjQ3ZDMxNDgwNzUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
 
 ---
 
@@ -52,5 +52,5 @@ By leveraging data from different areas, the Business Insights 360 project offer
 
 ## Contact Information  
 For any questions or further discussion about this project, feel free to reach out:  
-- [Email](pavankumarkondapavuluri38@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/pavankumar-kondapavuluri-2b4350258/)
+- [Email](somapangubunny6@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/mohith-bhanuprakash-somapangu-3741912b2/)
